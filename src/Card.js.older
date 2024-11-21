@@ -1,0 +1,39 @@
+import React, { useState } from 'react';
+import './Card.css';
+
+const Card = ({ url, title, fontName, fontSize, fontColor }) => {
+  const [isFlipped, setIsFlipped] = useState(false);
+
+  const handleClick = () => {
+    setIsFlipped(!isFlipped);
+  };
+
+  const cardTextStyle = {
+    fontFamily: fontName,
+    fontSize: fontSize,
+    color: fontColor
+  };
+
+  return (
+    <div className={`card ${isFlipped ? "flipped rgb" : ""}`} onClick={handleClick}>
+      <div className="card-inner">
+        <div className="card-face card-front">
+          <div className="card-text">
+            {/* <span className="date">4 days ago</span> */}
+            <h2 style={cardTextStyle}>{title}</h2>
+          </div>
+          <div className="card-image" style={{backgroundImage: `url(http://localhost:5001${url})`}}></div>
+        </div>
+        <div className="card-face card-back">
+          <div className="card-text">
+            {/* <span className="date">4 days ago</span> */}
+            <h2 style={cardTextStyle}>{title}</h2>
+          </div>
+          <div className="card-image" style={{backgroundImage: `url(http://localhost:5001${url})`}}></div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Card;

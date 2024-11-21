@@ -1,0 +1,29 @@
+/* TextArea.css */
+
+.text-area {
+    width: 80%; /* Adjust according to your layout */
+    height: 150px; /* Adjust according to your needs */
+    margin: 30px auto;
+    padding: 20px;
+    font-family: 'Amatic SC', cursive; /* This is a Google font, you should import it in your index.html */
+    font-size: 24px;
+    line-height: 28px;
+    color: #333;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    resize: none; /* Disable resizing */
+    outline: none; /* Disable outline */
+    background: #fdf6e3; /* A warm color for the background */
+    transition: box-shadow 0.3s ease;
+    background: rgba(255, 246, 227, 0.8); 
+  }
+  
+  .text-area:focus {
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .text-area::placeholder {
+    color: #666;
+  }
+  

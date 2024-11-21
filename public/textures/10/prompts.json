@@ -1,0 +1,45 @@
+{
+    "text": "Card texture: Victorian Gothic, parchment. wrought iron gate and moonlit manor, owls. cedar trees, owls, raven, black and white, Edgar Allan Poe, hint of the supernatural, matte, 8k, cinematic.",
+    "cardTitles": [
+        {"title": "GargoyleGate", "category": "locationsAndLandmarks", "color": "#556B2F", "font": "Times New Roman", "size": "20px"},
+        {"title": "MoonlitManor", "category": "locationsAndLandmarks", "color": "#8B4513", "font": "Garamond", "size": "22px"},
+        {"title": "SunsetArrival", "category": "eventsAndOccurrences", "color": "#7B68EE", "font": "Baskerville", "size": "20px"},
+        {"title": "NightOfNoReturn", "category": "eventsAndOccurrences", "color": "#483D8B", "font": "Courier New", "size": "22px"},
+        {"title": "Poe'sParchment", "category": "objectsAndArtifacts", "color": "#2F4F4F", "font": "Bodoni", "size": "20px"},
+        {"title": "RavenFeatherQuill", "category": "objectsAndArtifacts", "color": "#8B008B", "font": "Arial", "size": "22px"},
+        {"title": "TheManorMaster", "category": "charactersAndCreatures", "color": "#556B2F", "font": "Georgia", "size": "20px"},
+        {"title": "TheOwlEyedMaid", "category": "charactersAndCreatures", "color": "#8B4513", "font": "Verdana", "size": "22px"},
+        {"title": "ChamberOfSecrets", "category": "situationsAndDilemmas", "color": "#7B68EE", "font": "Palatino Linotype", "size": "20px"},
+        {"title": "LockedInLibrary", "category": "situationsAndDilemmas", "color": "#483D8B", "font": "Garamond", "size": "22px"},
+        {"title": "LanternLitLonesomeness", "category": "emotionsAndFeelings", "color": "#2F4F4F", "font": "Courier New", "size": "20px"},
+        {"title": "WhisperingWorry", "category": "emotionsAndFeelings", "color": "#8B008B", "font": "Futura", "size": "22px"},
+        {"title": "MidnightInManor", "category": "timeAndSeasons", "color": "#556B2F", "font": "Impact", "size": "20px"},
+        {"title": "AutumnInAttic", "category": "timeAndSeasons", "color": "#8B4513", "font": "Helvetica", "size": "22px"},
+        {"title": "EchoesOfEternity", "category": "naturalPhenomena", "color": "#7B68EE", "font": "Courier New", "size": "20px"},
+        {"title": "MoonlightMystery", "category": "naturalPhenomena", "color": "#483D8B", "font": "Times New Roman", "size": "22px"},
+        {"title": "SeanceInStudy", "category": "culturalAndSocietal", "color": "#2F4F4F", "font": "Garamond", "size": "20px"},
+        {"title": "BallroomBanshee", "category": "culturalAndSocietal", "color": "#8B008B", "font": "Arial", "size": "22px"},
+        {"title": "JourneyToTheJadeJewel", "category": "journeysAndQuests", "color": "#556B2F", "font": "Verdana", "size": "20px"},
+        {"title": "QuestForTheQuill", "category": "journeysAndQuests", "color": "#8B4513", "font": "Palatino Linotype", "size": "22px"},
+        {"title": "NightOfNocturnes", "category": "eventsAndOccurrences", "color": "#7B68EE", "font": "Baskerville", "size": "20px"},
+        {"title": "TheVeil'sVespers", "category": "eventsAndOccurrences", "color": "#483D8B", "font": "Courier New", "size": "22px"},
+        {"title": "Raven'sRiddle", "category": "objectsAndArtifacts", "color": "#8B008B", "font": "Arial", "size": "22px"},
+        {"title": "TheManor'sMystery", "category": "charactersAndCreatures", "color": "#556B2F", "font": "Georgia", "size": "20px"},
+        {"title": "WraithOfTheWoods", "category": "charactersAndCreatures", "color": "#8B4513", "font": "Verdana", "size": "22px"},
+        {"title": "ParchmentPrison", "category": "situationsAndDilemmas", "color": "#7B68EE", "font": "Palatino Linotype", "size": "20px"},
+        {"title": "BeneathTheBlackenedBoughs", "category": "situationsAndDilemmas", "color": "#483D8B", "font": "Garamond", "size": "22px"},
+        {"title": "SuspicionShadows", "category": "emotionsAndFeelings", "color": "#2F4F4F", "font": "Courier New", "size": "20px"},
+        {"title": "WhisperedWoe", "category": "emotionsAndFeelings", "color": "#8B008B", "font": "Futura", "size": "22px"},
+        {"title": "WinterInWhispers", "category": "timeAndSeasons", "color": "#556B2F", "font": "Impact", "size": "20px"},
+        {"title": "AutumnAbyss", "category": "timeAndSeasons", "color": "#8B4513", "font": "Helvetica", "size": "22px"},
+        {"title": "FogFalls", "category": "naturalPhenomena", "color": "#7B68EE", "font": "Courier New", "size": "20px"},
+        {"title": "EchoingEclipse", "category": "naturalPhenomena", "color": "#483D8B", "font": "Times New Roman", "size": "22px"},
+        {"title": "SeanceCircle", "category": "culturalAndSocietal", "color": "#2F4F4F", "font": "Georgia", "size": "20px"},
+        {"title": "RiteOfRavens", "category": "culturalAndSocietal", "color": "#8B008B", "font": "Arial", "size": "22px"},
+        {"title": "ChasingChimeras", "category": "journeysAndQuests", "color": "#556B2F", "font": "Verdana", "size": "20px"},
+        {"title": "JourneyToTheJadedManor", "category": "journeysAndQuests", "color": "#8B4513", "font": "Palatino Linotype", "size": "22px"}
+
+        
+    ]
+}
+

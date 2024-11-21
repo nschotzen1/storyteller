@@ -1,0 +1,15 @@
+.card-fan-container {
+    position: relative;
+    height: 400px; 
+    width: 100%; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    perspective: 1000px;
+}
+
+.card {
+    position: absolute;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform-origin: bottom center;
+}

@@ -1,0 +1,25 @@
+{
+    "text": "Card texture: Post-apocalyptic graffiti, Mad Max, rusted iron sheet, spray paint, rebellion symbols, dystopian future, urban decay, survival. . 8k. artstation",
+    "cardTitles": [
+        {"title": "BunkerBeneathTheRubble", "category": "locationsAndLandmarks", "color": "#696969", "font": "Impact", "size": "20px"},
+        {"title": "ForgottenFactoryRuins", "category": "locationsAndLandmarks", "color": "#808080", "font": "Arial", "size": "22px"},
+        {"title": "DayOfTheFallenSky", "category": "eventsAndOccurrences", "color": "#A9A9A9", "font": "Courier New", "size": "18px"},
+        {"title": "NightOfTheRedMoon", "category": "eventsAndOccurrences", "color": "#C0C0C0", "font": "Verdana", "size": "20px"},
+        {"title": "TheRustedRelic", "category": "objectsAndArtifacts", "color": "#D3D3D3", "font": "Georgia", "size": "22px"},
+        {"title": "TheJunker'sJewel", "category": "objectsAndArtifacts", "color": "#DCDCDC", "font": "Trebuchet MS", "size": "24px"},
+        {"title": "TheRadscorpionKing", "category": "charactersAndCreatures", "color": "#F5F5F5", "font": "Arial", "size": "18px"},
+        {"title": "TheWastelandWanderer", "category": "charactersAndCreatures", "color": "#808080", "font": "Times New Roman", "size": "20px"},
+        {"title": "LostInRadiationStorm", "category": "situationsAndDilemmas", "color": "#696969", "font": "Courier New", "size": "22px"},
+        {"title": "CorneredInScrapCity", "category": "situationsAndDilemmas", "color": "#A9A9A9", "font": "Verdana", "size": "18px"},
+        {"title": "TheDreadOfTheDystopia", "category": "emotionsAndFeelings", "color": "#C0C0C0", "font": "Georgia", "size": "20px"},
+        {"title": "RebellionRising", "category": "emotionsAndFeelings", "color": "#D3D3D3", "font": "Trebuchet MS", "size": "22px"},
+        {"title": "DuskInDesolation", "category": "timeAndSeasons", "color": "#DCDCDC", "font": "Arial", "size": "24px"},
+        {"title": "HighNoonHeatwave", "category": "timeAndSeasons", "color": "#F5F5F5", "font": "Times New Roman", "size": "18px"},
+        {"title": "TheDustDevil'sDance", "category": "naturalPhenomena", "color": "#808080", "font": "Courier New", "size": "20px"},
+        {"title": "EchoesOfTheEarthquake", "category": "naturalPhenomena", "color": "#696969", "font": "Verdana", "size": "22px"},
+        {"title": "RitualOfTheRadroaches", "category": "culturalAndSocietal", "color": "#A9A9A9", "font": "Georgia", "size": "18px"},
+        {"title": "AssemblyOfTheAtomcult", "category": "culturalAndSocietal", "color": "#C0C0C0", "font": "Trebuchet MS", "size": "20px"},
+        {"title": "RaidersRampageRoad", "category": "journeysAndQuests", "color": "#D3D3D3", "font": "Arial", "size": "22px"},
+        {"title": "Scavenger'sSearch", "category": "journeysAndQuests", "color": "#DCDCDC", "font": "Times New Roman", "size": "24px"}
+    ]
+}

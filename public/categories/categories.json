@@ -1,0 +1,18 @@
+{
+    "categories": [
+        "locationsAndLandmarks",
+        "eventsAndOccurrences",
+        "objectsAndArtifacts",
+        "charactersAndCreatures",
+        "situationsAndDilemmas",
+        "emotionsAndFeelings",
+        "timeAndSeasons",
+        "naturalPhenomena",
+        "culturalAndSocietal",
+        "journeysAndQuests",
+        "geographicalFeature",
+        "placeToSpendTheNight",
+        "modeOfTransportation",
+        "weather"
+    ]
+}

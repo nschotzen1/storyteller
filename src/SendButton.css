@@ -1,0 +1,19 @@
+.send-button {
+    background-color: #806517;  /* Bronze */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Amatic SC', cursive;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.send-button:hover {
+    background-color: #c28f0d; /* Gold */
+    color: black;
+}
